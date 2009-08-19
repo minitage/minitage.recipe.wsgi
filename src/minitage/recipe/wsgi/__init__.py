@@ -35,7 +35,7 @@ import os
 
 import pkg_resources
 import zc.buildout
-from minitage.recipe import scripts
+from minitage.recipe.scripts import scripts
 
 class Recipe(scripts.Recipe):
     """
