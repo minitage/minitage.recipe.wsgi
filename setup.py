@@ -62,8 +62,8 @@ setup(
     # workaround when using the 2 recipes in the same buildout.
     entry_points = {
         'zc.buildout' : [
-            'wsgi = %s:Recipe' % 'minitage.recipe..wsgiwsgi',
-            'default = %s:Recipe' % 'minitage.recipe..wsgiwsgi',
+            'wsgi = %s:Recipe' % 'minitage.recipe.wsgi.wsgi',
+            'default = %s:Recipe' % 'minitage.recipe.wsgi.wsgi',
         ]
     },
 )

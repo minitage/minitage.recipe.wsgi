@@ -1,6 +1,6 @@
 
 ===============================================
-minitage.recipe:wsgi
+minitage.recipe.wsgi
 ===============================================
 
 Abstract
@@ -79,7 +79,7 @@ Do not specify the file option.
     ... download-cache=${buildout:directory}
     ... parts = part
     ... [part]
-    ... recipe=minitage.recipe:wsgi
+    ... recipe=minitage.recipe.wsgi
     ... config-file = toto.cfg
     ... find-links=%(index)s
     ... eggs=foo
