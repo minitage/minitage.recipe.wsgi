@@ -6,7 +6,7 @@ setupdir = os.path.abspath(
 os.chdir(setupdir)
 
 name='minitage.recipe.wsgi'
-version = '1.35'
+version = '1.36'
 
 def read(*rnames):
     return open(
@@ -50,7 +50,7 @@ setup(
     zip_safe=False,
     install_requires = [
         'zc.buildout',
-        'setuptools',
+        
         'minitage.core',
         'iniparse',
     ],
