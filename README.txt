@@ -18,3 +18,12 @@ You can browse the code on minitage's following resources:
     - http://git.minitage.org/git/minitage/eggs/minitage.recipe.wsgi/
     - http://www.minitage.org/trac/browser/minitage/eggs/minitage.recipe.wsgi
 
+======================================
+Makina Corpus Sponsorised software
+======================================
+
+  http://www.makina-corpus.com & http://makina-corpus.org
+
+    plone at makina-corpus org
+
+
