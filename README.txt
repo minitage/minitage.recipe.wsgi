@@ -19,7 +19,7 @@ You can browse the code on minitage's following resources:
     - http://www.minitage.org/trac/browser/minitage/eggs/minitage.recipe.wsgi
 
 ======================================
-Makina Corpus sponsorised software
+Makina Corpus sponsored software
 ======================================
 |makinacom|_
 
